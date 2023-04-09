@@ -34,7 +34,7 @@ npm run dev
 ```
 
 ```cl
-npm run dev
+npm run server
 ```
 ou 
 ```cl
@@ -42,7 +42,7 @@ yarn dev
 ```
 
 ```cl
-yarn dev
+yarn server
 ```
 
 ## 🆚 Versionamento / Versioning
